@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\bin\Debug\CSharpReferenceType.exe.config
+c:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\bin\Debug\CSharpReferenceType.exe
+c:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\bin\Debug\CSharpReferenceType.pdb
+c:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\obj\Debug\CSharpReferenceType.exe
+c:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\obj\Debug\CSharpReferenceType.pdb
+C:\visual studio 2013\Projects\CSharpReferenceType\CSharpReferenceType\obj\Debug\CSharpReferenceType.csprojResolveAssemblyReference.cache
